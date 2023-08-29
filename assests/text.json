@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Boston 25 News"
+      },
+      "author": "Maria  Papadopoulos",
+      "title": "Massachusetts health officials warn of data breach affecting more than 134,000 people - Boston 25 News",
+      "description": "Massachusetts health officials are warning residents of a “global security incident” affecting the personal information of more than 134,000 people, state officials said Tuesday.",
+      "url": "https://www.boston25news.com/news/local/massachusetts-health-officials-warn-data-breach-affecting-more-than-134000-people-state-says/INS76OYBWNCVVCDT36QVTRUV5U/",
+      "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/mXzDnYPoO5kFTl64FeGXSe_BFis=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/547DURRH7VARTLYK2BQDQPUBHU.jpg",
+      "publishedAt": "2023-08-16T10:11:30Z",
+      "content": "BOSTON — Massachusetts health officials are warning residents of a global security incident affecting the personal information of more than 134,000 people, state officials said Tuesday.\r\nUMass Chan M… [+4578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WFLA"
+      },
+      "author": "Katlyn Brieskorn",
+      "title": "Mega Millions ticket worth $36 million sold at Florida Publix - WFLA",
+      "description": "TAMPA, Fla. (WFLA) — Someone in Florida is the state’s newest millionaire after matching all six numbers in Tuesday night’s Mega Millions drawing. The numbers drawn were 18, 39, 42, 57, 63 and gold Mega Ball 7. The Megaplier was 3X. The quick pick ticket wort…",
+      "url": "https://www.wfla.com/news/florida-lottery/mega-millions-ticket-worth-36-million-sold-at-florida-publix/",
+      "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2023/08/Mega-millions-ticket-e1672759504501-1.jpg?w=1280",
+      "publishedAt": "2023-08-16T09:29:36Z",
+      "content": "TAMPA, Fla. (WFLA) Someone in Florida is the state’s newest millionaire after matching all six numbers in Tuesday night’s Mega Millions drawing.\r\nThe numbers drawn were 18, 39, 42, 57, 63 and gold Me… [+663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Arjun Kharpal",
+      "title": "China's Tencent misses expectations despite fastest profit rise since late 2021 - CNBC",
+      "description": "Tencent on Wednesday reported a surge in profit for the second quarter, but missed expectations.",
+      "url": "https://www.cnbc.com/2023/08/16/tencent-tcehy-earnings-report-q2-2023.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106654047-15968011032020-08-07t024629z_1259459155_rc2q8i93o3ww_rtrmadp_0_usa-wechat-trump.jpeg?v=1692175551&w=1920&h=1080",
+      "publishedAt": "2023-08-16T08:45:51Z",
+      "content": "Tencent on Wednesday reported a weaker-than-expected surge in profit for the second quarter, as cost-cutting measures began to pay off and sales rose across the company's various businesses.\r\nHere's … [+3527 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Nicole Goodkind",
+      "title": "Michael Burry, of ‘Big Short’ fame, just bet $1.6 billion on a stock market crash - CNN",
+      "description": "Michael Burry, the “Big Short” investor who became famous for correctly predicting the epic collapse of the housing market in 2008, has bet more than $1.6 billion on a Wall Street crash.",
+      "url": "https://www.cnn.com/2023/08/15/investing/michael-burry-stock-market-crash/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210518080503-michael-burry-the-big-short-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-16T07:56:00Z",
+      "content": "Michael Burry, the Big Short investor who became famous for correctly predicting the epic collapse of the housing market in 2008, has bet more than $1.6 billion on a Wall Street crash.\r\nBurry is maki… [+2688 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China Asks Some Funds to Avoid Net Equity Sales as Markets Sink - Bloomberg",
+      "description": "Chinese authorities asked some investment funds this week to avoid being net sellers of equities, as a rout in the nation’s financial markets deepened, people familiar with the matter said.",
+      "url": "https://www.bloomberg.com/news/articles/2023-08-16/china-asks-some-funds-to-avoid-net-equity-sales-as-markets-sink",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaWQ4cTtedAc/v0/1200x769.jpg",
+      "publishedAt": "2023-08-16T07:55:03Z",
+      "content": "Chinese authorities asked some investment funds this week to avoid being net sellers of equities, as a rout in the nations financial markets deepened, people familiar with the matter said.\r\nStock exc… [+357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hannah Ward-Glenton",
+      "title": "European markets higher as investors assess UK inflation data - CNBC",
+      "description": "European markets were higher Wednesday as investors digest key U.K. inflation data.",
+      "url": "https://www.cnbc.com/2023/08/16/european-markets-open-to-close-earnings-data-and-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107287234-1692163488156-gettyimages-1146938550-UK_LSE.jpeg?v=1692163876&w=1920&h=1080",
+      "publishedAt": "2023-08-16T07:44:00Z",
+      "content": "Despite last week's selloff, the strong rally this year means U.S. markets are now trading at only a small discount compared with the start of the year, says top Morningstar strategist Dave Sekera.\r\n… [+442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Intc.com"
+      },
+      "author": null,
+      "title": "Intel Announces Termination of Tower Semiconductor Acquisition - Investor Relations :: Intel Corporation (INTC)",
+      "description": null,
+      "url": "https://www.intc.com/news-events/press-releases/detail/1642/intel-announces-termination-of-tower-semiconductor",
+      "urlToImage": "https://d1io3yog0oux5.cloudfront.net/_b18f8a9f850e843405ac7afa8ebfbe6f/intel/db/878/6995/social_image_resized.jpg",
+      "publishedAt": "2023-08-16T07:03:18Z",
+      "content": "Intel continues to advance plans to create world-class system foundry as part of its IDM 2.0 strategy.\r\n SANTA CLARA, Calif.--(BUSINESS WIRE)--\r\nIntel Corporation (Nasdaq: INTC) today announced that … [+6388 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Harry Robertson, Kane Wu",
+      "title": "Asian stocks slip as China data continues to disappoint - Reuters",
+      "description": "Global stocks slipped on Wednesday for the third time in four sessions as more disappointing Chinese economic data and the absence of meaningful stimulus from Beijing continued to weigh on investor sentiment.",
+      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-08-16/",
+      "urlToImage": "https://www.reuters.com/resizer/ip8qer8P1SG6nQSdSAe_7e_D1iE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JAQ6SVUAKRKMXCEYFJ5WFEQQXQ.jpg",
+      "publishedAt": "2023-08-16T06:16:08Z",
+      "content": "LONDON/HONG KONG, Aug 16 (Reuters) - Global stocks slipped on Wednesday for the third time in four sessions as more disappointing Chinese economic data and the absence of meaningful stimulus from Bei… [+3521 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Davide Barbuscia",
+      "title": "Higher-for-longer rates regime pressures US recession trades - Reuters",
+      "description": "Bond investors who had positioned portfolios defensively in anticipation of a U.S. recession are adjusting their strategies for a surprisingly resilient economy that will likely keep interest rates higher, longer than they had expected.",
+      "url": "https://www.reuters.com/markets/us/higher-for-longer-rates-regime-pressures-us-recession-trades-2023-08-16/",
+      "urlToImage": "https://www.reuters.com/resizer/_JzzzL0ZDlhw5j2Nc4xyZ20goQI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2RZ4FQ2LDBKR5DQTZG37XTJVM4.jpg",
+      "publishedAt": "2023-08-16T06:11:11Z",
+      "content": "NEW YORK, Aug 16 (Reuters) - Bond investors who had positioned portfolios defensively in anticipation of a U.S. recession are adjusting their strategies for a surprisingly resilient economy that will… [+5525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Elliot Smith",
+      "title": "UK headline inflation rate drops sharply to 6.8% in July, in line with expectations - CNBC",
+      "description": "U.K. inflation continued to cool in July but the core consumer price index increased, posing a potential headache for the Bank of England.",
+      "url": "https://www.cnbc.com/2023/08/16/uk-headline-inflation-rate-drops-sharply-to-6point8percent-in-july-in-line-with-expectations.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107267299-1688634073494-gettyimages-1198070009-hv6b3583.jpeg?v=1692165918&w=1920&h=1080",
+      "publishedAt": "2023-08-16T06:05:18Z",
+      "content": "LONDON U.K. headline inflation cooled sharply in July to an annual 6.8%, but the core consumer price index remained unchanged, posing a potential headache for the Bank of England.\r\nThe headline CPI r… [+4835 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Claire Bushey, Mercedes Ruehl, Jaren Kerr",
+      "title": "Vietnamese EV maker worth more than Ford or GM after US listing - Financial Times",
+      "description": "Lossmaking Vinfast’s market capitalisation tops $85bn following New York debut",
+      "url": "https://www.ft.com/content/c5af0740-7fba-4c9d-962d-8a1b563196e3",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c47b595-fb80-4a89-ac6a-17d1764e65e6.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-08-16T05:32:45Z",
+      "content": "Vietnamese electric vehicle start-up VinFasts valuation has overtaken those of Detroits big three carmakers after shares of the lossmaking company soared on their first trading day.\r\nVinFast closed a… [+2501 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Apple Supplier Foxconn Begins iPhone 15 Production in India - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2023-08-16/apple-supplier-foxconn-begins-iphone-15-production-in-india",
+      "urlToImage": null,
+      "publishedAt": "2023-08-16T04:33:35Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Melissa Repko",
+      "title": "Target will report earnings before the bell — here's what to expect - CNBC",
+      "description": "Target reports earnings as it tries to bounce back after struggles with weaker demand and consumer backlash.",
+      "url": "https://www.cnbc.com/2023/08/16/target-tgt-earnings-q2-2023.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107257023-1686775871826-gettyimages-1491042036-dsc03042_gayitpjr.jpeg?v=1692158461&w=1920&h=1080",
+      "publishedAt": "2023-08-16T04:01:01Z",
+      "content": "Target will report fiscal second-quarter earnings on Wednesday, as consumers send mixed messages about their willingness to spend.\r\nThe discounter, which saw enormous sales gains during the Covid pan… [+2055 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Sara Germano",
+      "title": "The battle for TV rights could upend US college sports - Financial Times",
+      "description": "‘Conference realignment’ threatens more than a century of athletic tradition",
+      "url": "https://www.ft.com/content/ad6aed18-59c1-489a-a2d5-dfb87f5d7b4c",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa050b9e8-114b-405a-b44d-cfacbb90f212.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-08-16T04:00:39Z",
+      "content": "Imagine, for a moment, that Bayern Munich and Borussia Dortmund decided they didnt like the broadcast revenue opportunities they had within the Bundesliga and formed an agreement to join the English … [+4266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "China’s Zhongrong Misses Payments as Fallout Spreads - Bloomberg Television",
+      "description": "Zhongrong International Trust Co. missed payments on dozens of products and has no immediate plan to make clients whole, indicating troubles at the embattled...",
+      "url": "https://www.youtube.com/watch?v=GWSDDRQ4_-s",
+      "urlToImage": "https://i.ytimg.com/vi/GWSDDRQ4_-s/hqdefault.jpg",
+      "publishedAt": "2023-08-16T03:23:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China Hides More Economic Data After Halting Youth Jobless Rate Release - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2023-08-16/china-is-hiding-more-and-more-data-from-the-rest-of-the-world",
+      "urlToImage": null,
+      "publishedAt": "2023-08-16T03:17:39Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSDK.com"
+      },
+      "author": "Brent Solomon",
+      "title": "State orders Missouri marijuana dispensaries to pull certain products from shelves - KSDK.com",
+      "description": "If you recently walked into a dispensary and picked up edibles or drinks, then you'll want to make sure they're not among the products the state recalled.",
+      "url": "https://www.ksdk.com/article/news/local/marijuana/missouri-marijuana-dispensaries-cannabis/63-2beb4a9f-9376-4c8b-91df-e50b9310c3d2",
+      "urlToImage": "https://media.ksdk.com/assets/KSDK/images/abfc2987-3daa-4d12-b8dd-7518d6975587/abfc2987-3daa-4d12-b8dd-7518d6975587_1140x641.jpg",
+      "publishedAt": "2023-08-16T02:57:00Z",
+      "content": "MISSOURI, USA Missouri marijuana dispensaries are being told to stop selling products from a Franklin County-based manufacturer. The Missouri Division of Cannabis Regulation said the company, Delta E… [+2755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Elon Musk Admits Joking About Cage-Fight With Mark Zuckerberg - NDTV",
+      "description": "In an interesting turn in the Elon Musk-Mark Zuckerberg much-anticipated cage fight', both tech leaders again entered an indirect war of words.",
+      "url": "https://www.ndtv.com/world-news/elon-musk-admits-joking-about-cage-fight-with-mark-zuckerberg-4301269",
+      "urlToImage": "https://c.ndtvimg.com/2023-08/0i36348g_elon-musk-vs-mark-zuckerberg-_625x300_06_August_23.png",
+      "publishedAt": "2023-08-16T02:56:01Z",
+      "content": "Elon Musk admits joking about cage-fight with Mark Zuckerberg.\r\nLos Angeles: In an interesting turn in the Elon Musk-Mark Zuckerberg much-anticipated cage fight', both tech leaders again entered an i… [+1985 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China New-Home Prices Drop at Faster Pace as Slowdown Worsens - Bloomberg",
+      "description": "China home prices dropped for a second month in July, a further sign of the deepening property downturn that’s weighing on the world’s second-largest economy.",
+      "url": "https://www.bloomberg.com/news/articles/2023-08-16/china-new-home-prices-drop-at-faster-pace-as-slowdown-worsens",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iklXF_BnyklA/v0/1200x800.jpg",
+      "publishedAt": "2023-08-16T02:26:15Z",
+      "content": "China home prices dropped for a second month in July, a further sign of the deepening property downturn thats weighing on the worlds second-largest economy.\r\nNew-home prices in 70 cities, excluding s… [+203 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FreightWaves"
+      },
+      "author": "FreightWaves",
+      "title": "Apollo sells Yellow term loan to Citadel - FreightWaves",
+      "description": null,
+      "url": "https://www.freightwaves.com/news/apollo-sells-yellow-term-loan-to-citadel",
+      "urlToImage": null,
+      "publishedAt": "2023-08-16T02:25:41Z",
+      "content": null
+    }
+  ]
+}
